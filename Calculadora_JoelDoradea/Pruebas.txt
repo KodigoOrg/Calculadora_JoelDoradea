@@ -1,0 +1,39 @@
+Prueba 1: Suma de números grandes y decimales
+Entrada: 1000000.25 + 2999999.75
+Salida esperada: 4000000.0
+
+Prueba 2: Resta con resultado negativo
+Entrada: 50 - 120
+Salida esperada: -70.0
+
+Prueba 3: Multiplicación con cero y número negativo
+Entrada: 0 * -999.99
+Salida esperada: 0.0
+
+Prueba 4: División con decimales precisos
+Entrada: 7 / 3
+Salida esperada: 2.333...
+
+Prueba 5: Potencia con exponente cero
+Entrada: 25 ^ 0
+Salida esperada: 1.0
+
+Prueba 6: Potencia con exponente negativo
+Entrada: 2 ^ -3
+Salida esperada: 0.125
+
+Prueba 7: Raíz cuadrada exacta
+Entrada: ?144
+Salida esperada: 12.0
+
+Prueba 8: Raíz cuadrada con decimales
+Entrada: ?2
+Salida esperada: 1.4142...
+
+Prueba 9: Entrada inválida en menú
+Entrada: opción 9
+Salida esperada: Mensaje 'Opción no válida'
+
+Prueba 10: Entrada de letra en vez de número
+Entrada: a en lugar de número
+Salida esperada: Error: Entrada inválida. Debe ingresar un número.
